@@ -1,5 +1,5 @@
 ﻿# IO_git
-git na zajęcia 
+ABCD
 
 Wiktor Bombola
 

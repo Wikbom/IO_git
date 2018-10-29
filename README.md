@@ -1,2 +1,3 @@
-# IO_git
+﻿# IO_git
 git na zajęcia
+Wiktor Bombola

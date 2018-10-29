@@ -1,9 +1,10 @@
+//comment
 public class Bicycle {
         
     // the Bicycle class has
     // three fields
     public float cadence;
-    public int gear;
+    public float gear;
     public int speed;
         
     // the Bicycle class has
@@ -18,6 +19,7 @@ public class Bicycle {
     // four methods
     public void setCadence(int newValue) {
         cadence = newValue;
+	newValue++;
     }
         
     public void setGear(int newValue) {
@@ -25,11 +27,11 @@ public class Bicycle {
     }
         
     public void applyBrake(int decrement) {
-        speed -= decrement;
+        speed *= decrement;
     }
         
     public void speedUp(int increment) {
-        speed += increment +1;
+        speed -= increment +1;
     }
         
 }

@@ -2,7 +2,7 @@ public class Bicycle {
         
     // the Bicycle class has
     // three fields
-    public int cadence;
+    public float cadence;
     public int gear;
     public int speed;
         
@@ -29,7 +29,7 @@ public class Bicycle {
     }
         
     public void speedUp(int increment) {
-        speed += increment;
+        speed += increment +1;
     }
         
 }

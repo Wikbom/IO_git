@@ -1,8 +1,5 @@
 ﻿# IO_git
-
-EFGH 
-
-Wiktor Bombola
+ABCD
 
  
 29.10.2018
